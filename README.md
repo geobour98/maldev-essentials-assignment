@@ -14,4 +14,4 @@ This is a simple dropper, which was developed for the assignment part of the cou
 
 By executing `implant.exe`, a process injection happens into `explorer.exe`, which pops up the MessageBox coming from the `explorer.exe` process.
 
-> A detailed blog post is coming soon! 
+> A detailed blog post can be found here: [geobour98 Blog](https://geobour98.github.io/blog/maldev-essentials-assignment/)
